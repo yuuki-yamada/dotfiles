@@ -1,0 +1,10 @@
+set fenc=utf-8
+set number
+set showmatch
+set tabstop=2
+set shiftwidth=2
+set expandtab
+set syntax=on
+set ruler
+set paste
+set autoindent
