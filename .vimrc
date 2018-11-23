@@ -1,10 +1,13 @@
 set fenc=utf-8
 set number
 set showmatch
-set tabstop=2
-set shiftwidth=2
+set tabstop=4
+set shiftwidth=4
 set expandtab
-set syntax=on
+syntax on
 set ruler
 set paste
 set autoindent
+set incsearch
+set hlsearch
+set clipboard=unnamed,autoselect
